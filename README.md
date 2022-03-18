@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rumeysadoga
-- 👀 I’m interested in data science, programming, cloud computing
-- 🌱 I’m currently learning C 
+- 👀 I’m interested in electronics and programming
+- 🌱 I’m currently learning C, python, fpga
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: rumeysad196@gmail.com
 
